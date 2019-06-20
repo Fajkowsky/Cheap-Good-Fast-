@@ -9,7 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "^2.6.9",
     "normalize.css": "^8.0.1",
     "vue": "^2.6.10"
   },
