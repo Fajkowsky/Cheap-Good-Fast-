@@ -1,4 +1,7 @@
 # Cheap!Good!Fast!
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/71ede74487b1441d9029877d7dafd4e8)](https://app.codacy.com/app/dawid-fajkowski/Cheap-Good-Fast-?utm_source=github.com&utm_medium=referral&utm_content=Fajkowsky/Cheap-Good-Fast-&utm_campaign=Badge_Grade_Settings)
+
 ![Travis (.org)](https://img.shields.io/travis/Fajkowsky/Cheap-Good-Fast-.svg)
 ![Requires.io](https://img.shields.io/requires/github/Fajkowsky/Cheap-Good-Fast-.svg)
 
