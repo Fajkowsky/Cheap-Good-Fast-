@@ -53,6 +53,11 @@
     "last 2 versions"
   ],
   "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "src/**/*.{js,vue}",
+      "!src/main.js"
+    ],
     "moduleFileExtensions": [
       "js",
       "jsx",

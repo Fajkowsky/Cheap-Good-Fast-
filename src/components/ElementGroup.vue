@@ -13,18 +13,14 @@
 
 <script>
 import ElementItem from '@/components/ElementItem.vue';
-import computeState from '@/utils';
+import { computeState, createState } from '@/state';
 
 export default {
   name: 'ElementGroup',
   components: { ElementItem },
   data() {
     return {
-      state: {
-        cheap: false,
-        good: false,
-        fast: false,
-      },
+      state: createState(),
     };
   },
   methods: {
