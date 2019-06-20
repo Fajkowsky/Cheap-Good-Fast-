@@ -11,6 +11,7 @@ function canSwitch(state) {
     .values(state)
     .filter(s => s === true)
     .length;
+
   return keysLength - onesLength;
 }
 
@@ -33,8 +34,8 @@ function computeState(value, state) {
 
   localState[value] = !localState[value];
 
-  if (!canSwitch(state)) {
-    const key = getSwitchKey(value, state);
+  if (!canSwitch(localState)) {
+    const key = getSwitchKey(value, localState);
     localState[key] = !localState[key];
   }
 
