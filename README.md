@@ -1,34 +1,7 @@
-# cheap-good-fast
+# Cheap!Good!Fast!
+![Travis (.org)](https://img.shields.io/travis/Fajkowsky/Cheap-Good-Fast-.svg)
+![Requires.io](https://img.shields.io/requires/github/Fajkowsky/Cheap-Good-Fast-.svg)
 
-## Project setup
-```
-yarn install
-```
+This is a fun project to show how difficult is to make a great software project nowadays. It uses really advance algorithm and suggestion tool to give you the best solution for your situation. Please follow the link below to see:
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Open link](https://www.google.com)

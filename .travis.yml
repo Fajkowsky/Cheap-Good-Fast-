@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "node"
+  - "lts/carbon"
+  - "lts/dubnium"
+script:
+  - yarn lint
+  - yarn test:unit
