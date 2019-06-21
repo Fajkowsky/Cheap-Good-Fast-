@@ -8,3 +8,10 @@ script:
   - yarn test:unit
 after_script:
   - cat ./coverage/lcov.info | coveralls
+before_deploy:
+  - yarn build
+  - cp CNAME dist/
+deploy:
+  skip_cleanup: true
+  provider: surge
+  project: ./dist/

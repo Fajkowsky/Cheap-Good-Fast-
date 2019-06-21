@@ -6,4 +6,4 @@
 
 This is a fun project to show how difficult is to make a great software project nowadays. It uses really advance algorithm and suggestion tool to give you the best solution for your situation. Please follow the link below to see:
 
-[Open link](https://www.google.com)
+[Open Cheap!Good!Fast!](http://cheap-good-fast.surge.sh/)
